@@ -1,10 +1,10 @@
-# Version 1.0.1
+# Version 1.0
 
 ## Notes:
 - Initial Release: 18/01/2021
 
-### Street Racing 3D:
+### Top Speed Fast Drag Racing
 - UV1 = Yes
 - UV2 = Unknown
 - Materials = Yes
-- Textures = Yes
+- Textures = No
