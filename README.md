@@ -3,6 +3,7 @@
 ## Games Supported:
 - Street Racing 3D
 - Top Speed Fast Drag Racing
+- Top Speed 2 Drag Rivals
 
 ## Games Info:
 
@@ -19,4 +20,11 @@
 - Materials = Yes
 - Textures = No
 - Vehicles = 58
+
+### Top Speed 2 Drag Rivals:
+- UV1 = Yes
+- UV2 = Unknown
+- Materials = Yes
+- Textures = No
+- Vehicles = 74
 
