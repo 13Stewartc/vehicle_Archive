@@ -11,10 +11,12 @@
 - UV2 = Unknown
 - Materials = Yes
 - Textures = Yes
+- Vehicles = 32
 
 ### Top Speed Fast Drag Racing:
 - UV1 = Yes
 - UV2 = Unknown
 - Materials = Yes
 - Textures = No
+- Vehicles = 58
 
