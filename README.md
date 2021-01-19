@@ -5,6 +5,7 @@
 - Top Speed Fast Drag Racing
 - Top Speed 2 Drag Rivals
 - Traffic Racer
+- CarX Highway Racing
 
 ## Games Info:
 
@@ -35,4 +36,12 @@
 - Materials = Yes
 - Textures = Yes
 - Vehicles = 48
+
+### CarX Highway Racing:
+- UV1 = Yes
+- UV2 = No
+- Materials = Yes
+- Textures = Yes
+- Vehicles = 49
+
 
