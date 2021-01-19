@@ -4,6 +4,7 @@
 - Street Racing 3D
 - Top Speed Fast Drag Racing
 - Top Speed 2 Drag Rivals
+- Traffic Racer
 
 ## Games Info:
 
@@ -27,4 +28,11 @@
 - Materials = Yes
 - Textures = No
 - Vehicles = 74
+
+### Traffic Racer:
+- UV1 = Yes
+- UV2 = Yes
+- Materials = Yes
+- Textures = Yes
+- Vehicles = 48
 
