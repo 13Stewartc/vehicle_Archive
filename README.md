@@ -1,6 +1,6 @@
 # 3D Vehicle Models Archive
 
-### Version 1.11
+### Version 1.12
 
 ## Games Supported:
 - Street Racing 3D
@@ -15,6 +15,7 @@
 - Street Racing
 - Drag Racing Duel & Street Race
 - Drift Wars
+- Drift Hunters
 
 ## Games Info:
 
@@ -101,3 +102,10 @@
 - Materials = Yes
 - Textures = Yes
 - Vehicles = 261
+
+### Drift Hunters:
+- UV1 = Yes
+- UV2 = No
+- Materials = Yes
+- Textures = Mixed
+- Vehicles = 26
