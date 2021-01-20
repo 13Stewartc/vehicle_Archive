@@ -10,6 +10,7 @@
 - Street Racing Grand Tour
 - Illegal Race Tuning
 - Drag Racing 3D
+- Street Racing
 
 ## Games Info:
 
@@ -75,3 +76,10 @@
 - Materials = Yes
 - Textures = Yes
 - Vehicles = 44
+
+### Street Racing:
+- UV1 = Yes
+- UV2 = Yes
+- Materials = Yes
+- Textures = Yes
+- Vehicles = 32
