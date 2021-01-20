@@ -11,6 +11,7 @@
 - Illegal Race Tuning
 - Drag Racing 3D
 - Street Racing
+- Drag Racing Duel & Street Race
 
 ## Games Info:
 
@@ -83,3 +84,10 @@
 - Materials = Yes
 - Textures = Yes
 - Vehicles = 32
+
+### Drag Racing Duel & Street Race:
+- UV1 = Yes
+- UV2 = Yes
+- Materials = Yes
+- Textures = Yes
+- Vehicles = 17
