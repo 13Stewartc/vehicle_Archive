@@ -12,6 +12,7 @@
 - Drag Racing 3D
 - Street Racing
 - Drag Racing Duel & Street Race
+- Drift Wars
 
 ## Games Info:
 
@@ -91,3 +92,10 @@
 - Materials = Yes
 - Textures = Yes
 - Vehicles = 17
+
+### Drift Wars:
+- UV1 = Yes
+- UV2 = Yes
+- Materials = Yes
+- Textures = Yes
+- Vehicles = 261
