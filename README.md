@@ -1,6 +1,6 @@
 # 3D Vehicle Models Archive
 
-### Version 1.12
+### Version 1.13
 
 ## Games Supported:
 - Street Racing 3D
@@ -16,6 +16,7 @@
 - Drag Racing Duel & Street Race
 - Drift Wars
 - Drift Hunters
+- Torque Burnout
 
 ## Games Info:
 
@@ -109,3 +110,10 @@
 - Materials = Yes
 - Textures = Mixed
 - Vehicles = 26
+
+### Torque Burnout:
+- UV1 = Yes
+- UV2 = Yes
+- Materials = Yes
+- Textures = Yes
+- Vehicles = 65
