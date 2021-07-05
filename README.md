@@ -1,6 +1,6 @@
 # 3D Vehicle Models Archive
 
-### Version 1.13 - test
+### Version 1.14
 
 ## Games Supported:
 - Street Racing 3D
@@ -117,3 +117,10 @@
 - Materials = Yes
 - Textures = Yes
 - Vehicles = 65
+
+### Gran Turismo 2:
+- UV1 = Yes
+- UV2 = No
+- Materials = Yes
+- Textures = Yes
+- Vehicles = 28
