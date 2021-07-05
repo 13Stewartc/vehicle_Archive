@@ -17,6 +17,7 @@
 - Drift Wars
 - Drift Hunters
 - Torque Burnout
+- Gran Turismo 2
 
 ## Games Info:
 
